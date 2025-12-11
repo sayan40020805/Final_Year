@@ -1,6 +1,7 @@
 /* Register Page Styles */
 .register-container {
   min-height: 100vh;
+  min-width: 100vw;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -137,7 +138,7 @@
   padding: 1.5rem 2rem;
   text-align: center;
   background-color: #f9fafb;
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid #ebe5e5;
 }
 
 .register-link {
